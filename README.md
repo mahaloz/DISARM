@@ -1,5 +1,5 @@
 # Drone Identification Signal And Retargeting Mimicker
-Drone Identification Signal And Retargeting Mimicker (DISARM), a small software package for interacting with SiK radios to disarm rouge drones. 
+Drone Identification Signal And Retargeting Mimicker (DISARM) is a small software package for interacting with SiK radios to disarm rouge drones. 
 
 ## About 
 DISARM is based on the concept of mimicking ID codes in the Mavlink communication protocol to take arbitrary control on nearby drone. 
