@@ -1,2 +1,2 @@
-# DISARM
-Drone Identification Signal And Retargeting Mimicker for downing rouge drones. 
+# Drone Identification Signal And Retargeting Mimicker (DISARM)
+## About
