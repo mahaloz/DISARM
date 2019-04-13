@@ -19,7 +19,7 @@ docker pull mahaloz/DISARM
 ## Useage 
 Run this to launch the DISARM system:
 ```bash
-docker run -it --rm -v /dev/:/dev/ mahaloz/DISARM
+docker run -it --rm -v /dev/:/dev/ mahaloz/disarm 
 ```
 Now plug the SiK radio into any available usb port.
 Finnaly run this to start disarming any system in the area:
@@ -30,4 +30,5 @@ Finnaly run this to start disarming any system in the area:
 ## Todo
 * Add a modify Firmware section 
 * Look into MavLink2 Signing 
+* lol the usage does not work correctly for disarming
 
