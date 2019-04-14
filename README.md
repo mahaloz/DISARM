@@ -3,8 +3,7 @@ Drone Identification Signal And Retargeting Mimicker (DISARM) is a small softwar
 
 ## About 
 DISARM is based on the concept of mimicking ID codes in the Mavlink communication protocol to take arbitrary control on nearby drone. 
-This project was a direct product of the SES494: Autonomous Exploration Systems class, from which [Jnaneshwar Das](http://robotics.usc.edu/~jnaneshd/pmwiki.php) mentored the process of this project.  
-Also big thanks to Harish Anand. 
+This project was a direct product of the SES494: Autonomous Exploration Systems class, from which [Jnaneshwar Das](https://github.com/darknight-007) mentored the process of this project. Also big thanks to [Harish Anand](https://github.com/harishanand95) for helping me out with drone semantics.
 
 ## Requirements
 To use this software package you will need to purchase a [SiK Radio](https://docs.px4.io/en/telemetry/sik_radio.html), which can be purchased at multiple locations online.
