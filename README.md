@@ -12,7 +12,7 @@ On the software side you will need [Docker](https://docs.docker.com/v17.12/insta
 ## Installation
 Once you have `Docker` downloaded, you may need to use `sudo`, use this command to pull the image:
 ```bash
-docker pull mahaloz/DISARM
+docker pull mahaloz/disarm 
 ```
 
 ## Useage 
