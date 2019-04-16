@@ -9,6 +9,7 @@ if __name__ == '__main__':
     try: 
         for i in range(100):
             p.recv(1024)
+            p.sendline('disarm')
             sleep(1) 
     except KeyboardInterrupt:
         print("[!] Interrupt Caught, ctrl-c to quit") 
