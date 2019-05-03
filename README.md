@@ -15,7 +15,7 @@ Once you have `Docker` downloaded, you may need to use `sudo`, use this command 
 docker pull mahaloz/disarm 
 ```
 
-## Useage 
+## Usage
 Run this to launch the DISARM system:
 ```bash
 docker run -it --rm -v /dev/:/dev/ mahaloz/disarm 
